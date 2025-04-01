@@ -1,7 +1,0 @@
-Name	Price	Manufacturer
-Coca-Cola	$1.50	The Coca-Cola Company
-Lay’s Chips	$2.99	PepsiCo
-Dairy Milk	$1.99	Cadbury
-Tesla Model 3	$40,000	Tesla
-Ford Mustang	$30,000	Ford
-BMW X5	$65,000	BMW
