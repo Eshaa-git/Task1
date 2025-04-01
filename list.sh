@@ -1,7 +1,6 @@
 cd task1 
 git checkout main 
 ls checklist
-cat checklist
 ls checklist/ > product.txt
 mkdir newdir
 mv product.txt newdir
