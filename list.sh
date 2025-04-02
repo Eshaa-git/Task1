@@ -1,3 +1,4 @@
+git pull origin main
 cd task1 
 git checkout main 
 ls checklist
